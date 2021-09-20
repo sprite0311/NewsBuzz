@@ -1,0 +1,71 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": {
+        "id": "cbc-news",
+        "name": "CBC News"
+      },
+      "author": "CBC News",
+      "title": "Why vaccine passports may be an important tool in boosting vaccination rates | CBC News",
+      "description": "Provinces across Canada are introducing vaccine passports, allowing those fully vaccinated against COVID-19 to participate in some indoor recreational activities. But apart from that, what do the passports accomplish, and how effective are they? CBC News spok…",
+      "url": "http://www.cbc.ca/news/health/vaccine-passports-vaccination-boost-provinces-1.6178203",
+      "urlToImage": "https://i.cbc.ca/1.6164313.1631814596!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/covid-que-vaccine-passport-20210901.jpg",
+      "publishedAt": "2021-09-17T11:52:41.4041948Z",
+      "content": "This week, Quebec's government began enforcing its vaccine passport, an electronic record in the form of a quick response (QR) code. B.C. launched its own earlier this month and other provinces plan … [+4049 chars]"
+    },
+    {
+      "source": {
+        "id": "independent",
+        "name": "Independent"
+      },
+      "author": "Daniel Keane",
+      "title": "Vaccine passports required to enter nightclubs and large events in Wales",
+      "description": "First minister Mark Drakeford said that all adults will need to show an NHS Covid Pass from next month",
+      "url": "http://www.independent.co.uk/news/uk/home-news/covid-wales-vaccine-passport-nightclubs-b1922065.html",
+      "urlToImage": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2021/01/18/16/first-minister-of-wales-mark-drakeford.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-09-17T11:49:45Z",
+      "content": "Vaccine passports will be required to enter nightclubs and attend large events in Wales from next month, the First Minister has announced.\r\nMark Drakeford said that people will need to show an NHS Co… [+2405 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news-au",
+        "name": "ABC News (AU)"
+      },
+      "author": "Markus Mannheim",
+      "title": "Vaccination passports are being considered around the world, but the ACT is unlikely to ease COVID-19 restrictions for double-dosed Canberrans",
+      "description": "Canberra, surrounded by NSW, is highly unlikely to embrace its neighbour's plan to segregate the jabbed from the unjabbed. ACT Chief Minister Andrew Barr has raised questions about the ethics, enforcement and reliability of a vaccine passport, but there's ano…",
+      "url": "http://www.abc.net.au/news/2021-09-17/act-unlikely-to-ease-covid-restrictions-for-fully-vaccinated/100465624",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/dbd82af6b86da3a3478100e1e7e71d22?impolicy=wcms_crop_resize&cropH=354&cropW=630&xPos=0&yPos=32&width=862&height=485",
+      "publishedAt": "2021-09-16T20:52:01Z",
+      "content": "A ritual has become normalised across parts of continental Europe.\r\nWhen you enter a restaurant or cinema, or board a train, you first display a QR code, either on your phone or printed on a card.\r\nT… [+6753 chars]"
+    },
+    {
+      "source": {
+        "id": "nhl-news",
+        "name": "NHL News"
+      },
+      "author": "David Satriano",
+      "title": "Disney, Turner Sports announce 2021-22 NHL schedule",
+      "description": "The 2021-22 NHL national television schedule for the Walt Disney Company and Turner Sports was announced Thursday.",
+      "url": "https://www.nhl.com/news/disney-turner-sports-announce-2021-22-nhl-schedule/c-326166964",
+      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/326167722/1024x576/cut.jpg",
+      "publishedAt": "2021-09-16T18:00:49Z",
+      "content": "The 2021-22 NHL national television schedule for The Walt Disney Co. and Turner Sports was announced Thursday.The Walt Disney Co. will televise 103 games across ESPN, ESPN+, Hulu and ABC, with 75 gam… [+3672 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}
